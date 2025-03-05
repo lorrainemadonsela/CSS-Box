@@ -1,0 +1,8 @@
+.container{
+    border: dotted 1px #ff00ff;
+}
+.inner-container{
+    padding: 20px;
+    margin: 5%;
+    border: solid 1px #00ffff;
+}
